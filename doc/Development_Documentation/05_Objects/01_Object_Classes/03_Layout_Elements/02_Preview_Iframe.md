@@ -1,6 +1,6 @@
 # Preview / Iframe Panel
 
-Provide a URL and make use of the context paramater to render a response of your choice.
+Provide a URL and make use of the context parameter to render a response of your choice.
  
 ## Class Configuration
 ![Class Definition](../../../img/iframe_class_definition.png)
