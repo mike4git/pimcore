@@ -58,7 +58,7 @@ The visual outcome would be as follows:
 ![Calculated Value Field](../../../img/classes-datatypes-calculated-field.png)
 
 You can also provide a Symfony service as calculator class via `@` prefix (e.g. `@service_name`).
-
+This case is important if your calculator class has a non-default constructor and uses other Symfony services for the calculation.
 
 ## Working with PHP API
 
